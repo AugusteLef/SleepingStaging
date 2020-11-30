@@ -7,3 +7,5 @@ In this task we will perform sequence classification. We will categorize tempora
 
 * [A Deep Learning Model for Automated Sleep Stages Classification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6406978/)
 * [Automatic sleep stage classification based on EEG signals by using neural networks and wavelet packet coefficients](https://ieeexplore.ieee.org/document/4649365)
+* [Efficient sleep stage classification based on EEG signals](https://ieeexplore.ieee.org/document/6845193)
+* [Automatic Sleep Stage Classification Using EEG and EMG Signal (2018)](https://ieeexplore.ieee.org/document/8436712)
