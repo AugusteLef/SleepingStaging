@@ -10,3 +10,4 @@ In this task we will perform sequence classification. We will categorize tempora
 * [Efficient sleep stage classification based on EEG signals](https://ieeexplore.ieee.org/document/6845193)
 * [Automatic Sleep Stage Classification Using EEG and EMG Signal (2018)](https://ieeexplore.ieee.org/document/8436712)
 * [Frequencies](https://www.ncbi.nlm.nih.gov/books/NBK539805/#:~:text=However%2C%20the%20most%20frequently%20used,beta%20(13%20to%2030Hz).)
+* [Library/Package](https://mne.tools/stable/index.html)
